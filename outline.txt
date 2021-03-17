@@ -1,0 +1,21 @@
+Model
+Row class
+- name
+- array of bools
+- total missed
+Array of rows
+
+View
+
+Header
+Table
+    Header row
+    Student rows
+        Name column
+        Check boxes
+    Days missed column
+
+Octopus
+Click box
+Get days missed
+Update views
